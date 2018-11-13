@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriWebAPI", "TriWebAPI\TriWebAPI.csproj", "{DB6B8506-619D-4A00-8F88-716635362302}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB6B8506-619D-4A00-8F88-716635362302}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB6B8506-619D-4A00-8F88-716635362302}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB6B8506-619D-4A00-8F88-716635362302}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB6B8506-619D-4A00-8F88-716635362302}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C27EFA1A-C5B5-4A3E-844A-C73E8DA3C929}
+	EndGlobalSection
+EndGlobal
